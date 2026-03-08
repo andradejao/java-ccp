@@ -1,4 +1,4 @@
-Package exercicio1;
+package exercicio1;
 
 // Criando a classe
 public class Paciente {
